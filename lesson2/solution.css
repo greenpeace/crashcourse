@@ -60,7 +60,7 @@ a:hover {
 .green {
     color:#003300;
 }
-.greenpeace {
+.orange {
     color:#cc6600;
 }
 .small {
@@ -78,10 +78,11 @@ a:hover {
     margin:0 0 20px 20px;
 }
 .tabletype0 ul {
+    width:200px;
     margin:2px;
 }
 .tabletype0 li {
-    background-color:#cc6600;
+    background-color:#003300;
     margin:1px;
 }
 .tabletype1 ul {
