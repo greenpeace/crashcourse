@@ -39,6 +39,27 @@ a:hover {
 }
 
 /* helpers */
+.smalltext {
+    font-size: 8px;
+}
+.mediumtext {
+    font-size:15px;
+}
+.largetext {
+    font-size:20px;
+}
+.blue {
+    color:blue;
+}
+.red {
+    color:red;
+}
+.green {
+    color:#003300;
+}
+.greenpeace {
+    color:#cc6600;
+}
 .small {
     width:200px;
 }
@@ -52,6 +73,19 @@ a:hover {
 .right {
     float:right;
     margin:0 0 20px 20px;
+}
+
+.tabletype0 ul {
+    margin:2px;
+}
+.tabletype0 li {
+    background-color:red;
+}
+.tabletype1 ul {
+    margin:5px;
+}
+.tabletype1 li {
+    background-color:orange;
 }
 
 /* blockquote */
