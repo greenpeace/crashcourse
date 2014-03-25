@@ -79,7 +79,7 @@ a:hover {
 .big {
     width:640px;
 }
-.left {
+.left { 
     float:left;
     margin:0 20px 20px 0;
 }
