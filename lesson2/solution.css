@@ -26,6 +26,7 @@ a {
 }
 table, th, td {
     border: 1px black solid;
+    border-spacing: 0px;
 }
 a:hover {
     color:#003300;
