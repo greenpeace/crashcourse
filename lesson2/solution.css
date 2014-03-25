@@ -95,7 +95,12 @@ a:hover {
 .tabletype1 li {
     background-color:orange;
 }
-
+.frontelement {
+    width:20%;
+}
+.backelement {
+    width:80%;
+}
 /* blockquote */
 blockquote {
     background:#edf3ff;
