@@ -81,18 +81,18 @@ a:hover {
     margin:0 0 20px 20px;
 }
 .tabletype0 ul {
+    background-color:#003300;
     width:200px;
     margin:2px;
 }
 .tabletype0 li {
-    background-color:#003300;
     margin:1px;
 }
 .tabletype1 ul {
+    background-color:orange;
     margin:5px;
 }
 .tabletype1 li {
-    background-color:orange;
 }
 
 /* blockquote */
