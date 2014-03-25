@@ -1,3 +1,6 @@
+body {
+    background-color: gray;
+}
 article {
     width:720px;
     margin:auto;
