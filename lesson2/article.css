@@ -1,0 +1,22 @@
+article {
+    width:640px;
+    margin:auto;
+    font-family:helvetica,
+    verdana, sans-serif;
+}
+h1 {
+    color:#66CC00;  
+    font-size:32px;
+}
+h2, h3 { color:#003300; }
+a {
+    color:#003300;
+    text-decoration:none;
+}
+a:hover {
+    color:#003300;
+    text-decoration:underline;
+}  
+ul.toc {
+    float:right;
+}
