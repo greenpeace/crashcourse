@@ -104,10 +104,13 @@ a:hover {
 .frontelement {
     display:inline-block;
     width: 95px;
+    border-right:1px solid gray;
 }
 .frontelement0 {
     display:inline-block;
-    width: 120px;
+    width: 200px;
+    
+    border-right:1px solid gray;
 }
 /* blockquote */
 blockquote {
