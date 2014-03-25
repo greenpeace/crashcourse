@@ -97,6 +97,7 @@ a:hover {
 }
 .frontelement {
     width:20%;
+    margin-right:10px;
 }
 .backelement {
     width:80%;
