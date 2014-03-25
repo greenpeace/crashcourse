@@ -138,6 +138,9 @@ a:hover {
 .lefttext {
     float:left;
 }
+#referencetable {
+    width:100%;
+}
 /* blockquote */
 blockquote {
     background:#edf3ff;
