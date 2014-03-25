@@ -44,12 +44,15 @@ a:hover {
 }
 .smalltext {
     font-size: 8px;
+    color:black;
 }
 .mediumtext {
     font-size:15px;
+    color:black;
 }
 .largetext {
     font-size:20px;
+    color:black;
 }
 .blue {
     color:blue;
