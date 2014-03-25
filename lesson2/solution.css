@@ -97,7 +97,7 @@ a:hover {
 }
 .frontelement {
     display:inline-block;
-    margin-right:30px;
+    width: 75px;
 }
 /* blockquote */
 blockquote {
