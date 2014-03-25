@@ -105,6 +105,10 @@ a:hover {
     display:inline-block;
     width: 95px;
 }
+.frontelement0 {
+    display:inline-block;
+    width: 120px;
+}
 /* blockquote */
 blockquote {
     background:#edf3ff;
