@@ -120,6 +120,7 @@ a:hover {
     border-right:1px solid gray;
 }
 .boxed0 {
+    width:500px;
     border: 1px solid gray;
     border-radius: 4px;
 }
