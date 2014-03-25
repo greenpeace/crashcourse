@@ -103,13 +103,13 @@ a:hover {
 }
 .frontelement {
     display:inline-block;
-    padding-right:10px;
+    margin-right:10px;
     width: 95px;
     border-right:1px solid gray;
 }
 .frontelement0 {
     display:inline-block;
-    padding-right:10px;
+    margin-right:10px;
     width: 190px;
     border-right:1px solid gray;
 }
