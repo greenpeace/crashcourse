@@ -24,7 +24,7 @@ a {
     color:#003300;
     text-decoration:none;
 }
-table td {
+table, th, td {
     border-right: 1px black solid;
 }
 a:hover {
