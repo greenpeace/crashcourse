@@ -38,6 +38,11 @@ a:hover {
     padding:10px 0;
     width:220px;
 }
+.toc img {
+    width:60%;
+    height:60%;
+    margin:auto;
+}
 
 /* helpers */
 .bordered {
