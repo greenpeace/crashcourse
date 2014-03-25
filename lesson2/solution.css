@@ -81,7 +81,8 @@ a:hover {
     margin:2px;
 }
 .tabletype0 li {
-    background-color:red;
+    background-color:#cc6600;
+    margin:1px;
 }
 .tabletype1 ul {
     margin:5px;
