@@ -4,7 +4,7 @@ body {
 article {
     width:720px;
     margin:auto;
-    margin-top: 0;
+    margin-top: -10px;
     font-family:helvetica,
     verdana, sans-serif;
     padding-bottom:3em;
@@ -49,6 +49,8 @@ a:hover {
     height: 80%;
     margin-left: 10%;
     margin-right:10%;
+    border: 1px solid gray;
+    border-radius: 4px;
 }
 
 /* helpers */
