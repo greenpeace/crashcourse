@@ -96,6 +96,7 @@ a:hover {
     background-color:orange;
 }
 .frontelement {
+    display:inline-block;
     margin-right:30px;
 }
 /* blockquote */
