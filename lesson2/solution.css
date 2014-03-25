@@ -134,6 +134,9 @@ a:hover {
 .lefttext {
     float:left;
 }
+td {
+    border:1px solid black;
+}
 /* blockquote */
 blockquote {
     background:#edf3ff;
