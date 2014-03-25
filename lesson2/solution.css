@@ -49,9 +49,6 @@ a:hover {
     height: 80%;
     margin-left: 10%;
     margin-right:10%;
-    padding:10px;
-    border: 1px solid gray;
-    border-radius: 4px;
 }
 
 /* helpers */
@@ -121,6 +118,10 @@ a:hover {
     margin-right:10px;
     width: 190px;
     border-right:1px solid gray;
+}
+.boxed0 {
+    border: 1px solid gray;
+    border-radius: 4px;
 }
 /* blockquote */
 blockquote {
