@@ -96,11 +96,9 @@ a:hover {
     background-color:orange;
 }
 .frontelement {
-    width:20%;
     margin-right:10px;
 }
 .backelement {
-    width:80%;
 }
 /* blockquote */
 blockquote {
