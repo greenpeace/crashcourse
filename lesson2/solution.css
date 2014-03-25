@@ -25,7 +25,7 @@ a {
     text-decoration:none;
 }
 table, th, td {
-    border-right: 1px black solid;
+    right: 1px black solid;
 }
 a:hover {
     color:#003300;
